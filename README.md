@@ -61,8 +61,3 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/readlyt](https://github.com/yourusername/readlyt)
