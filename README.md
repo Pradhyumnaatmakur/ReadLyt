@@ -29,7 +29,7 @@ Readlyt is a revolutionary speed reading application that transforms your readin
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/readlyt.git
+   git clone https://github.com/Pradhyumnaatmakur/readlyt.git
    cd readlyt
    ```
 
